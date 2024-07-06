@@ -5,6 +5,14 @@ the code in `llm-hello-world.js`.
 It's a very simple program that takes input from a user (a prompt),
 and passed it to an LLM, finally printing the LLM's response to the console.
 
+To run the program you need to have Node.js installed.
+Then, you can run the following commands:
+
+```bash
+npm install
+node llm-hello-world.js
+```
+
 This is the basis for all LLM-based applications!
 Try and play around with the promopt, by asking the LLM to perform different tasks.
 Then, use the code (and expand it), to implement one of the following exercises/projects.
