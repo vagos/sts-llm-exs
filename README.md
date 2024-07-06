@@ -30,6 +30,7 @@ Prepare a short report (~200-250 words) where you need to include:
 1. The project you picked
 2. How you designed and implemented your system
 3. Describe a possible future evaluation plan. Mention experiments you would run.
+4. Describe how you would expand the project in the future.
 
 ## Dynamic Calculator
 
