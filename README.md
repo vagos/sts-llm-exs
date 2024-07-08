@@ -117,3 +117,11 @@ A user will be able to branch-off the conversation (using `git branch`) and see 
 An implementation of this project can later become a fault-tolerrant LLM-based 
 system, where mistakes in the LLM's sequence of actions could be reverted
 and replaced.
+
+# Further Reading/Watching
+
+- [Catching up on the weird world of LLMs](https://www.youtube.com/watch?v=h8Jth_ijZyY)
+- [Large Language Models: A Survey](https://arxiv.org/pdf/2402.06196)
+- [Dive into the World of LLMs with Langchain.js: A Beginner’s Guide](https://medium.com/@mirzahasnat/dive-into-the-world-of-llms-with-langchain-js-a-beginners-guide-c9beb4168447)
+- [Language models on the command-line](https://simonwillison.net/2024/Jun/17/cli-language-models/)
+- [Everything I'll forget about prompting LLMs](https://olickel.com/everything-i-know-about-prompting-llms)
