@@ -1,7 +1,7 @@
 # Introduction
 
 Before devling into the projects, take some time to study 
-the code in `llm-hello-world.js`. 
+the code in `examples/llm-hello-world.js`. 
 It's a very simple program that takes input from a user (a prompt),
 and passed it to an LLM, finally printing the LLM's response to the console.
 
@@ -19,7 +19,7 @@ Then, use the code (and expand it), to implement one of the following exercises/
 
 # Exercises
 
-Pick one of the following exercises. Please submit your solutions to XXX before XXX (deadline).
+Pick one of the following exercises. Please submit your solutions on the class platform.
 
 For some of the exercises, stencil code has been provided.
 Try and be creative with your solutions.
